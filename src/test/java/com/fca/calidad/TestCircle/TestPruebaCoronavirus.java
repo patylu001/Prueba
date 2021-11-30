@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
 import java.io.File;
 
-public class PruebaCoronavirus {
+public class TestPruebaCoronavirus {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
